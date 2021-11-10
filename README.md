@@ -9,8 +9,6 @@
 
 <br>
 
-- 📦 I’m currently working on [GommeHD.net](https://github.com/gommehdnet/)
-
 - 🏭 I'm currently building [Sprinect](https://github.com/sprinect/)
 
 - 👨‍💻 All of my projects are available at [github.com/PierreSchwang/](github.com/PierreSchwang/)
